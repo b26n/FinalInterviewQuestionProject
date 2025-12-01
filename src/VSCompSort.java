@@ -63,7 +63,7 @@ public class VSCompSort {
             swap(current, minIndex(current, endIndex));
     }
 
-    /**Radix Sort*/
+    /**Radix Sort:*/
 
     /**Returns the index of the largest value in values
      * @return integer of max value
