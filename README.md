@@ -67,4 +67,4 @@ https://interviewing.io/sorting-interview-questions
 https://medium.com/@sonal98roche/comparing-popular-sorting-algorithms-a-practical-overview-f7e41ecbd1e3
 https://www.geeksforgeeks.org/dsa/counting-sort/
 https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-radix-sort/
-https://www.geeksforgeeks.org/dsa/selection-sort-algorithm-2/<img width="925" height="1979" alt="image" src="https://github.com/user-attachments/assets/d8cff657-9e6b-4e41-8a5c-9677521e505b" />
+https://www.geeksforgeeks.org/dsa/selection-sort-algorithm-2/
