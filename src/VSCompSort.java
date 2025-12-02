@@ -105,6 +105,7 @@ public class VSCompSort {
      *  Preconditions: Integers cannot be negative.
      */
     static void radixSort() {
+        //Need to find the largest integer in values array
         int maxInt = maxIndex();
         //Sort by each digit of the integer
         for (EXP = 1; maxInt / EXP > 0; EXP *= 10) {
