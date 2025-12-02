@@ -161,7 +161,7 @@ public class VSCompSort {
         System.out.println("Testing array including negative integers... ");
         values = new int[SIZE];
         for (int index = 0; index < SIZE; index++)
-            values[index] = rand.nextInt(201) - 100;
+            values[index] = rand.nextInt() % 100;
         System.arraycopy(values, 0, valuesCopy, 0, SIZE);
         printValues();
 
