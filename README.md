@@ -1,3 +1,6 @@
+Author: Lloyd Armor
+	
+	
 	• Create a slide deck or other component to present to the class that helps organize your thoughts. It should, at a minimum, address...
 		○ What is the interview question you are addressing?
 		Find the difference between comparison-based sorting algorithms (quick sort, merge sort) and non-comparison based ones (radix sort, counting sort)
