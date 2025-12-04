@@ -80,10 +80,6 @@ public class VSCompSort {
         int[] output = new int[SIZE];
         int[] count = new int[10];
 
-        //Initialize count array
-        for (int i = 0; i < 10; i++) {
-            count[i] = 0;
-        }
         //Store count of occurrences
         for (int i = 0; i < SIZE; i++) {
             count[(values[i] / EXP) % 10]++;
@@ -186,13 +182,13 @@ public class VSCompSort {
         System.out.println();
 
         //Sort values array with negative integers using Radix sort will throw an exception!
-        /**System.out.println("Sorting using Radix Sort... ");
+        System.out.println("Sorting using Radix Sort... ");
         radixSort();
         System.out.println();
 
         //Print sorted values array
         printValues();
         System.out.println("values is sorted: " + isSorted());
-        System.out.println();*/
+        System.out.println();
     }
 }
