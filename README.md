@@ -1,4 +1,4 @@
-Author: Lloyd Armor
+Author: Lloyd Armor, Gabriella Youngers
 	
 	
 	• Create a slide deck or other component to present to the class that helps organize your thoughts. It should, at a minimum, address...
